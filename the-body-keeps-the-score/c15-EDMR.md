@@ -3,9 +3,9 @@ creation date: 2025-11-15 10:37
 tags:
 urgency:
 ---
- ```md
-有沒有一種治療法是可以不用說出自己的經歷，不用跟心理醫生溝通，甚至一句話不用講，就可以看到成效的？有！EDMR!
-```
+
+# EDMR
+>有沒有一種治療法是可以不用說出自己的經歷，不用跟心理醫生溝通，甚至一句話不用講，就可以看到成效的？有！EDMR!
 
 **EDMR (Eye Movement Desentisization and Reprocessing)**
 

@@ -3,6 +3,8 @@ creation date: 2025-11-15 10:37
 tags:
   - reading
 ---
+
+# The Body Keeps the Score
 >It’s a book about healing But honestly, it’s about living, too. It digs into what happens when the mind and body drift apart, when everything starts to feel numb or disconnected. It’s one of those books I keep coming back to, just to remind myself that the body really does keep the score
 
 - [c3-anatomy](c3-anatomy.md)

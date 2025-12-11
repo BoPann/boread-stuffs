@@ -2,9 +2,10 @@
 creation date: 2025-11-15 10:37
 tags:
 ---
-```md
-類似第18章。透過戲劇的方式，去感受不敢感受的情緒、內心的衝突。
-```
+
+# Finding Your Own Voice
+>類似第18章。透過戲劇的方式，去感受不敢感受的情緒、內心的衝突。
+
 
 Traumatized people are terrified to feel deeply. They are afraid to experience their emotions, because emotions lead to loss of control. In contrast, theater is about embodying emotions, giving voice to them, becoming rhythmically engaged, taking on and embodying different roles.
 

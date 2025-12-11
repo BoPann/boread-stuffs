@@ -14,6 +14,6 @@ Key Notes:
 2. Different pathway the brains responses to sensory
 3. The treatment approaches for traumatic stress should firstly focus on helping patients to live fully and securely in the present
 
-![[imgs/Pasted image 20251118231852.png]]
+![[imgs/path.png]]
 
 [https://investigator.tw/10225/情緒與腦科學/](https://investigator.tw/10225/%E6%83%85%E7%B7%92%E8%88%87%E8%85%A6%E7%A7%91%E5%AD%B8/)

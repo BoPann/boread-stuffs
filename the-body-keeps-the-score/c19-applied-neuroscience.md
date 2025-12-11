@@ -8,4 +8,4 @@ brain wave are real!people behave differenly in different brain wave. For exampl
 
 Often there is excessive activity in the right temporal lobe, the fear center of the brain, combined with too much frontal slow-wave activity. This means that their hyperaroused emotional bains dominate their mental life.
 
-![[imgs/Pasted image 20251118232907.png]]
+![[imgs/brain-wave.png]]

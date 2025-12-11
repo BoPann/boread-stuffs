@@ -22,7 +22,7 @@ Thankfully, most of us don't live in Mammoth Cave, or the constant darkness it i
 
 Your biological circadian rhythm coordinates a drop in core body temperature as you near typical bedtime. Although the temperature drop helps to initiate sleep, the temperature change itself will rise and fall across the twenty-four-hour period regardless of whether you are awake or asleep.
 
-![[imgs/Pasted image 20251118233527.png]]
+![[imgs/brain-wave-2.png]]
 
 ### melotonin → hey it’s dark
 
@@ -56,11 +56,11 @@ Caffeine is removed from your system by an enzyme within your liver,*
 
 They are two distinct and separate systems that are ignorant of each other: They are not coupled; though, they are usually aligned.
 
-![[imgs/Pasted image 20251118233601.png]]
+![[imgs/cycle.png]]
 
 The 24 hour circadian rhythm and the sleepiness signal of adenosine-are independent, and can be decoupled from their normal lockstep. People feel the strongest urge to sleep when the two’s vertical distance is at max.
 
-![[imgs/Pasted image 20251118233704.png]]
+![[imgs/cycle2.png]]
 
 ### sleep debt and chronic disease
 

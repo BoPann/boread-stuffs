@@ -56,11 +56,11 @@ Caffeine is removed from your system by an enzyme within your liver,*
 
 They are two distinct and separate systems that are ignorant of each other: They are not coupled; though, they are usually aligned.
 
-![[imgs/cycle.png]]
+![cycle](imgs/cycle.png)
 
 The 24 hour circadian rhythm and the sleepiness signal of adenosine-are independent, and can be decoupled from their normal lockstep. People feel the strongest urge to sleep when the two’s vertical distance is at max.
 
-![[imgs/cycle2.png]]
+![cycle2](imgs/cycle2.png)
 
 ### sleep debt and chronic disease
 

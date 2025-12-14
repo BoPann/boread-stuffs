@@ -14,9 +14,6 @@ urgency:
 原本覺得這到底是什麼？真的有用嗎？但書裡提到非常多的例子都是一開始半信半疑，然後結束後感受到明顯效果的例子。
 
 - [How EMDR works? Look at this animation (English)](https://www.youtube.com/watch?v=hKrfH43srg8)
-
 - [The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score!](https://www.youtube.com/watch?v=Qx5J5nwDBTo)
-
 - [Self-Guided EMDR Therapy Session with Spoken Instructions](https://www.youtube.com/watch?v=Ljss_Ut5pxY)
-
 - [The Secrets of EMDR Therapy and How It Can Help You](https://youtu.be/HNdMHuwvF_M?si=VrNBM0WwNv2GcW1s)

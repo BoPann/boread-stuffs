@@ -4,11 +4,15 @@ tags:
 urgency:
 ---
 
-# Anatomy
-> Running for Life - The Anatomy of Survival
+# Chapter 4 - Anatomy
+> Running for Your Life - The Anatomy of Survival
 
-Key Notes:
+> Trauma almost always invariably involves not bbeing seen, not being mirrored ,and not being taken into account.  
 
+## Overview 
+When 
+
+## The Development of Brain
 1. The development of the brain → from bottom to top
     1. Brainstem 腦幹 reptilian brain - Basic housekeeping like arousal, sleep, hunger, breathing, chemical balance/ Developed in the womb
     2. Limbic Brain 邊緣系統 mammalian brain - all mammals have one/ shaped in response to experience/ developed during toddler/ the seat of emotion, the the monitor of danger, the judge of what is pleasurable or scary/ can also be significantly modified by later experience
@@ -19,3 +23,4 @@ Key Notes:
 ![path](imgs/path.png)
 
 [https://investigator.tw/10225/情緒與腦科學/](https://investigator.tw/10225/%E6%83%85%E7%B7%92%E8%88%87%E8%85%A6%E7%A7%91%E5%AD%B8/)
+

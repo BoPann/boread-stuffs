@@ -17,10 +17,5 @@ tags:
 - [c19-applied-neuroscience](c19-applied-neuroscience.md)
 - [c20-finding-your-own-voice](c20-finding-your-own-voice.md)
 
->[!note]
->This is a testing for the 
->call out. I think this might be a good way 
 
-```
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=_FZxnwIm3s8&list=RD_FZxnwIm3s8&start_radio=1/0.jpg)](https://www.youtube.com/watch?v=_FZxnwIm3s8&list=RD_FZxnwIm3s8&start_radio=1)
-```
+

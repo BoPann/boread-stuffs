@@ -4,7 +4,7 @@ modified: 2025-12-14 00:14
 tags:
   - reading
 ---
-![](../shared-imgs/michael-why-are-you.png)
+![](../read-imgs/michael-why-are-you.png)
 > And in here you should ask: why do you do the things you do? 
 
 ## The Purpose of Life 
@@ -16,7 +16,7 @@ In Simon’s talks across various videos, he explains that the purpose of life c
 
 It’s important to ask why we do the things we do, not just what we do or how we do them. Being able to clearly articulate the underlying motivation often allows us to connect more deeply with others. This is largely because human decision-making is not purely rational. As described in  [The Body Keeps the Score: C3 Anatomy](../the-body-keeps-the-score/c4-anatomy.md), sensory information is first processed by the limbic system, also known as the emotional brain, before reaching higher-level reasoning areas. 
 
-![](../shared-imgs/circle.png)
+![](../read-imgs/circle.png)
 
 # Find your  WHY in Practical Steps (for individual)
 - step 1 - gather your story 

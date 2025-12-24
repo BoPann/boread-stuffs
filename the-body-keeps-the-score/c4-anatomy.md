@@ -8,9 +8,8 @@ urgency:
 Running for Your Life - The Anatomy of Survival
 
 ## Overview 
-When 
 
-## The Development of Brain
+### The Development of Brain
 1. The development of the brain → `from bottom to top`
     1. Brainstem 腦幹 reptilian brain - Basic housekeeping like arousal, sleep, hunger, breathing, chemical balance/ Developed in the womb
     2. Limbic Brain 邊緣系統 mammalian brain - all mammals have one/ shaped in response to experience/ developed during toddler/ the seat of emotion, the the monitor of danger, the judge of what is pleasurable or scary/ can also be significantly modified by later experience

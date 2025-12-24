@@ -2,13 +2,13 @@
 
 We might have seen this equations: 
 
-$Wealth = Net Profit + Asset Value$
+- `Wealth = Net Profit + Asset Value`
 
 But what's underneath lies the true power of fastlane. 
 
-$Net Profits = Units Sold x Unit Profits$ (放大效應)
+- `Net Profits = Units Sold x Unit Profits` (放大效應)
 
-$Assets Value = Net Profit x Industry Multiple$ （市場價值）
+- `Assets Value = Net Profit x Industry Multiple` （市場價值）
 
 第一個公式我稱它為放大效應。改變其中一個變數可以改變整體的產值。其實每個商業模式幾乎都依靠這個模式。But the point is - being in control. And a small change can lead to big difference. 
 

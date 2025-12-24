@@ -9,7 +9,7 @@ tags:
 
 > The biggest source of our suffering is the lies we tell ourselves. And it is usually about **love** and **loss**
 
-- [c4-anatomy](c4-anatomy.md)
+- [Chapter 4 Anatomy](c4-anatomy.md) 
 - [c15-EDMR](c15-EDMR.md)
 - [c16-yoga](c16-yoga.md)
 - [c17-IFS](c17-IFS.md)

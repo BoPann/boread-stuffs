@@ -20,7 +20,7 @@ It’s important to ask why we do the things we do, not just what we do or how w
 
 <p align="center"> <img src="../read-imgs/circle.png" width="80%" style="border-radius: 15px;"> </p>
 
-# Find your  WHY in Practical Steps (for individual)
+## Find your  WHY in Practical Steps (for individual)
 - step 1 - gather your story 
 - step 2 - idetify themes
 - step 3 - draft and refine a why statement. To __ so that __ 

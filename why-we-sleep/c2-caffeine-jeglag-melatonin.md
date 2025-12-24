@@ -2,13 +2,17 @@
 creation date: 2025-11-15 10:37
 tags:
 ---
-## what decide sleep?
+# What Makes You Sleepy? 
+1. Circadian Cycle 
+2. Sleep Pressure
 
-The first factor is a signal beamed out from your internal twenty-four-hour clock located deep within your brain. The clock creates a cycling, day-night rhythm that makes you feel tired or alert at regular times of night and day, respectively. The second factor is a chemical substance that builds up in your brain and creates a "sleep pressure. The longer you've been awake, the more that chemical sleep pressure accumulates, and conse-quentially, the sleepier you feel.
+## Overview
+- The first factor is a signal beamed out from your internal twenty-four-hour clock located deep within your brain. The clock creates a cycling, day-night rhythm that makes you feel tired or alert at regular times of night and day, respectively. 
+- The second factor is a chemical substance that builds up in your brain and creates a "sleep pressure. The longer you've been awake, the more that chemical sleep pressure accumulates, and conse-quentially, the sleepier you feel.
 
 ## 1. Circadian Cycle
 
-### mammoth cave experiement
+### 1.1 Short Experiement - The Mammoth Cave Experiement
 
 Two researchers once decided it’d be fun (for science!) to live in total darkness inside Mammoth Cave. No sunlight, no phone glow, not even a sliver of light. Their question? _Would our internal clocks go haywire without daylight?_
 
@@ -18,23 +22,23 @@ Yet daylight isn't the only signal that the brain can latch on to for the purpos
 
 Thankfully, most of us don't live in Mammoth Cave, or the constant darkness it imposes. We routinely experience light from the sun that comes to the rescue of our imprecise, overrunning internal circadian clock. Sunlight acts like a manipulating finger and thumb on the side-dial of an imprecise wristwatch.
 
-### temperature
+### 1.2 temperature
 
 Your biological circadian rhythm coordinates a drop in core body temperature as you near typical bedtime. Although the temperature drop helps to initiate sleep, the temperature change itself will rise and fall across the twenty-four-hour period regardless of whether you are awake or asleep.
 
-![[imgs/brain-wave-2.png]]
+<p align="center"> <img src="imgs/brain-wave-2.png" width="80%" style="border-radius: 15px;"> </p>
 
-### melotonin → hey it’s dark
+### 1.3 Melotonin -  Hey! It’s dark
 
 Your suprachiasmatic nucleus communicates its repeating signal of night and day to your brain and body using a circulating messenger called melatonin.
 
 Melatonin simply provides the official instruction to commence the event of sleep, but does not participate in the sleep race itself.
 
-### about jet lag
+### 1.4 The Thing about jet lag
 
 For every day you are in a different time zone, your suprachiasmatic nucleus can only readjust by about one hour. You may have noticed that it feels harder to acclimate to a new time zone when traveling eastward than when flying westward.
 
-### why everybody has different circadian cycle?
+#### Why everybody has different circadian cycle?
 
 So the group as a whole is not collectively vulernable!
 
@@ -56,11 +60,11 @@ Caffeine is removed from your system by an enzyme within your liver,*
 
 They are two distinct and separate systems that are ignorant of each other: They are not coupled; though, they are usually aligned.
 
-![cycle](imgs/cycle.png)
+<p align="center"> <img src="imgs/cycle.png" width="80%" style="border-radius: 15px;"> </p>
 
 The 24 hour circadian rhythm and the sleepiness signal of adenosine-are independent, and can be decoupled from their normal lockstep. People feel the strongest urge to sleep when the two’s vertical distance is at max.
 
-![cycle2](imgs/cycle2.png)
+<p align="center"> <img src="imgs/cycle2.png" width="80%" style="border-radius: 15px;"> </p>
 
 ### sleep debt and chronic disease
 

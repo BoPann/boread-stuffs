@@ -5,20 +5,99 @@
 
 $font-family-sans: "Montserrat", sans-serif;
 
-/* Global & Reset */
+/* 1. Target the actual root body tag */
 body {
-  color: #222;
   margin: 0;
-  background-color: #cfcac6;
+  background-color: #cfcac6 !important; /* This sets your grey background */
   font-family: $font-family-sans;
-  font-optical-sizing: auto;
-  font-weight: 500; // Regular weight
-  font-style: normal;
+  color: #222;
   -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, .post-title {
-  font-family: $font-family-sans;
-  font-weight: 900; // Bold weight for headings
-  letter-spacing: -0.02em; // Montserrat looks great slightly tightened in headings
+/* 2. Target your content container */
+.markdown-body {
+  font-family: $font-family-sans !important;
+  background-color: transparent !important; /* Allows the body color to show through */
+  padding: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+
+  /* Apply Montserrat to all text elements inside the content */
+  h1, h2, h3, h4, p, li, .post-title {
+    font-family: $font-family-sans !important;
+    font-weight: 900;
+  }
+  
+  p, li {
+    font-weight: 500;
+  }
+}
+
+/* 3. Table Overrides (Targeting Primer's specific classes) */
+.markdown-body table, 
+.markdown-body table tr, 
+.markdown-body table td, 
+.markdown-body table th {
+  background-color: #cfcac6 !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #cfcac6 !important;
+}
+
+.markdown-body table {
+  width: 100% !important;
+  display: table !important;
+}
+
+/* Target the footer specifically */
+footer {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;    /* Horizontal centering */
+  justify-content: center !important; 
+  width: 100% !important;
+  max-width: 900px;                  /* Matches your content width */
+  margin: 50px auto !important;      /* "auto" centers the block itself */
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.social-links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+    a {
+        color: #444; /* Match your body text color */
+        font-size: 1.5rem;
+        transition: color 0.3s ease;
+
+        &:hover {
+            color: #0077b5; /* LinkedIn Blue or choose a cyber-green/red */
+        }
+    }
+}
+
+/* Ensure the Giscus container inside the footer is also centered */
+.giscus, .giscus-frame, .giscus-comments {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .markdown-body {
+    padding: 15px; /* Less padding on small screens */
+    font-size: 16px; /* Ensure text is readable */
+  }
+  
+  /* Make tables scrollable on mobile so they don't break the layout */
+  .markdown-body table {
+    display: block;
+    overflow-x: auto;
+  }
 }

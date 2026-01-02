@@ -14,7 +14,7 @@ alcohol will discrupt sleep and REM. Infant consumed alcohol from the bread feed
 
 NREM sleep develope from back to the front. One explanation why teenagers don't do well on rational thinking and more likely to take risk. 
 
-NREM might have to do wiht Schuzophrenia
+NREM might have to do with Schuzophrenia
 
 ## Sleep in Elders 
 order people's NREM deteroriate. This might be an explanation why they are bad at memory. Also brain aging differently. The part that is responsible for NREM age first. 

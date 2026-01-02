@@ -1,5 +1,5 @@
 
-# The Law of Wealth
+# The  Law of Wealth
 The law of wealth is the law of effection. \
 The more people you affect the richer you will become. 
 

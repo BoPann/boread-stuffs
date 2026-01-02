@@ -3,7 +3,7 @@ Hi there! 🐈‍⬛ This is where I document the readings for the people I love
 
 
 ## Index
-- [Why We Sleep](why-we-sleep/README.md) - sleep is good, you should sleep more
+- [Why We Sleep](why-we-sleep/why-we-sleep.md) - sleep is good, you should sleep more
 - [The Body Keeps the Score](the-body-keeps-the-score/README.md) - book about body, mind and trauma
 - [Find Your Why](find-your-why/find-your-why.md) - As Michael said to Toby: why are you the way you are? 
 - [The Millionaire Fastlane](the-millionaire-fastlane/the-great-deception.md) - How to become a millionaire so you don't need to declare bankruptcy? (You heard Michael shouting right?)

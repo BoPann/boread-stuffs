@@ -9,6 +9,7 @@
 - Money does grow on tree. But you need to BUILD THE MONEY TREE. see [Does Money Grow on Trees?](c19-money-grows-on-tree.md)
 - How to get RICH??? Seriously! [Chapter 18 The Rich Equation](c18-how-rich-get-rich.md)
 - [The Law of Wealth](c21-law-of-wealth.md) - The Law of Effection
+- 
 
 ## My notes
 - Find the why

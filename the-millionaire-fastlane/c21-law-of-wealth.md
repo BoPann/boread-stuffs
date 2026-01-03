@@ -1,3 +1,8 @@
+---
+creation date: 2026-01-02 00:47
+modified: 2026-01-03 12:25
+tags:
+---
 
 # The  Law of Wealth
 The law of wealth is the law of effection. \
@@ -13,4 +18,8 @@ For example, the agent of a high-profile athletes, real estate broker
 
 ## Conclusion
 To get rich, you either make a giant impact a few times or make a small impact millions of times. 
+
+
+---
+Last Modified: 2026-01-01
 

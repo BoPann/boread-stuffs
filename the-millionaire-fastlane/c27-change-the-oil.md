@@ -6,6 +6,7 @@ tags:
 # Change that Dirty, Stale Oil 
 Chapter 27
 
+## You are the Vehicle
 It’s common sense to change your car’s oil every 3,000 miles. Our bodies work the same way, we need fresh “oil” too. In this case, oil is **education and knowledge**. What we know today won’t be enough to get us where we need to be tomorrow.
 
 And it’s not just the brain. The body matters too. Our body is the vehicle for this road trip called life, and if you don’t take care of it or keep putting in bad gas, we're not getting very far.

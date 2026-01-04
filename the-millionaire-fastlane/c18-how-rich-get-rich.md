@@ -1,6 +1,8 @@
-# How The Rich Get Rich? Seriously. 
+# How The Rich Get Rich?
 Chapter 18
 
+
+## How The Rich Get Rich? Seriously!
 We might have seen this equations: 
 
 - `Wealth = Net Profit + Asset Value`

@@ -6,6 +6,9 @@ tags:
 
 # The  Law of Wealth
 Chapter 21
+
+
+## Law of Effection
 The law of wealth is the law of effection. \
 The more people you affect the richer you will become. 
 

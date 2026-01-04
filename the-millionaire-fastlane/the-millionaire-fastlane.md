@@ -1,6 +1,8 @@
 
 <p align="center"> <img src="../read-imgs/michael-bank.png" width="80%" style="border-radius: 15px;"> </p>
-# Things we need to Know about WEALTH
+# The Millionaire Fastlane
+
+## Things we need to Know about WEALTH
 
 - Fast wealth is created asymmetrically, not linearly. 
 - Get rich quick != get rich easy 

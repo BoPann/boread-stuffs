@@ -3,7 +3,8 @@ creation date: 2026-01-03 12:15
 modified: 2026-01-03 12:25
 tags:
 ---
-# Chapter 28 Change that Dirty, Stale Oil 
+# Change that Dirty, Stale Oil 
+Chapter 27
 
 It’s common sense to change your car’s oil every 3,000 miles. Our bodies work the same way, we need fresh “oil” too. In this case, oil is **education and knowledge**. What we know today won’t be enough to get us where we need to be tomorrow.
 

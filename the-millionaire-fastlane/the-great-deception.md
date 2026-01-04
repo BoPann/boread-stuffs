@@ -6,10 +6,12 @@
 - Get rich quick != get rich easy 
 - The slow lane might still get you rich, but slow... perhaps when you are in your 60s and not in your best mobility (not being able to enjoy it). 
 - Trade time for the money is a trap (it might work, but not the fast lane)
-- Money does grow on tree. But you need to BUILD THE MONEY TREE. see [Does Money Grow on Trees?](c19-money-grows-on-tree.md)
-- How to get RICH??? Seriously! [Chapter 18 The Rich Equation](c18-how-rich-get-rich.md)
+- Money does grow on tree. But you need to BUILD THE MONEY TREE - [Does Money Grow on Trees?](c19-money-grows-on-tree.md)
+- How to get RICH??? Seriously! [The Rich Equation](c18-how-rich-get-rich.md)
 - [The Law of Wealth](c21-law-of-wealth.md) - The Law of Effection
-- 
+- You are the vehicle, so take care of it - [Change that Dirty, Stale Oil ](c27-change-the-oil.md)
+- About Taking Risk - [Intelligent vs Moronic Risks](c28-hit-red-line.md)
+
 
 ## My notes
 - Find the why

@@ -1,6 +1,6 @@
+# The Millionaire Fastlane
 
 <p align="center"> <img src="../read-imgs/michael-bank.png" width="80%" style="border-radius: 15px;"> </p>
-# The Millionaire Fastlane
 
 ## Things we need to Know about WEALTH
 

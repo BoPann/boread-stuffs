@@ -4,7 +4,7 @@ tags: reading
 ---
 
 # Why We Sleep
->Ah! The things we call sleep. It's something we do every day (hopefully) but rearely put too much thought to it. 
+Ah! The things we call sleep. It's something we do every day (hopefully) but rearely put too much thought to it. 
 
 ## Overview
 What if I tell you that there is a new tratment that makes your live longer? It enhances you memory and makes you more creative. It makes you look more attractive. It keeps you slim and lowers food craving. It protects you from cancer and dementia. It wards off cold and the flu. It lowers you risk of heart attack and stoke, not to mention diabetes. You will even feel happier, less depressed and less anxious. 
@@ -29,4 +29,4 @@ That thing is sleep
  - [Chapter 3 Let's Define Sleep](c3-define-generate-sleep.md)
  - [Chapter 4 Does Every Species Sleep? ](c4-does-every-species-sleep.md)
  - [Chapter 5 Changes in Sleep](c5-changes-in-sleep.md)
- - 
+ - [Chapter 6 Sleep and Memory](c6-why-sleep.md)

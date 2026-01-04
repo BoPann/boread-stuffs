@@ -1,6 +1,7 @@
+# Chapter 4 Does Every Species Sleep?
+
 <p align="center"> <img src="../read-imgs/friends.png" width="80%" style="border-radius: 15px;"> </p>
 
-# Does Every Species Sleep?
 >Short answer: yes
 
 ## Really? 

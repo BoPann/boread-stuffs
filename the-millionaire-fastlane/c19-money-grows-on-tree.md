@@ -1,3 +1,8 @@
+---
+creation date: 2025-12-23 10:35
+modified: 2026-01-03 16:18
+tags:
+---
 # Does Money Grow on Trees? 
 Short answer: Yes, if you own the money trees.
 
@@ -19,3 +24,10 @@ Money Trees are business system that can grow on its own. Here are 5 best seedin
 	- Startbucks sells coffee through franchizing
 5. Human Resource Systems
 	- Risky and low passivity. Good employee nurture money trees. Bad employee pluck the fruits of meowney trees and require pruning. 
+
+
+
+---
+Last Modified: 2026-01-03
+
+

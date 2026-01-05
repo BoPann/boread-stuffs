@@ -21,7 +21,8 @@ For example, the agent of a high-profile athletes, real estate broker
 
 
 ## Conclusion
-To get rich, you either make a giant impact a few times or make a small impact millions of times. 
+It is important to note simply starting a business is **NOT** a fastlane. A lemonade stand business is not a fastlane **unless** it fullfills the **CENTS** framework (coming up). To get rich, one either make a giant impact a few times or make a small impact millions of times. 
+
 
 
 ---

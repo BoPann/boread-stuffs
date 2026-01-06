@@ -15,6 +15,8 @@ tags:
 >
 >- Trauma almost always invariably involves not being seen, not being mirrored, and not being taken into account.  
 
+## Summary 
+(drafting)
 
 ## Index
 - [Chapter 4 Anatomy](c4-anatomy.md) - What happen when you brain see threats?

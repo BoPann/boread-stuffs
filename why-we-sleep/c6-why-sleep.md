@@ -1,4 +1,4 @@
-# Sleep and Memory
+# Chapter 6 Sleep and Memory
 
 ## Sleep to Learn 
 

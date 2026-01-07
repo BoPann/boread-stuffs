@@ -31,9 +31,44 @@ Personally, I see it a little differently. I don’t think being a hitchhiker is
 But hey, the author is the millionaire, and I’m not so maybe you should not listen to me 😹
 
 
+## The Commandment of Entry
+Higher entry barriers means more robust, mroe powerful road with lesscompetition and the need for exceptionality. 
+
+It should be a warning signs If "everybody is doing it". 
+
+Real Business startups are process, not events. For example, to open up a airbnb business in Sedona, you need to find a property, fix it, finance it, insure it, get licensing and permits, hire staff and perform about ten other steps. 
+
+
+## The Commandment of Need 
+Don't chase money, chase need. Money is like a cat; it eludes you if you chase it around the neighborhood. However, if you ignore it and focus on what attracts the cat, it comes to you and sits on your lap (meow)
+
+
+What do you have to offer? 
+
+### Concrete Advices - Make one Million People Achieve: 
+1. Make them feel better (entertainment, music, video games)
+2. Help them solve a problem
+3. Educate them
+4. Make them look better (health, nutrition, clothing, makeup)
+5. Give them security (housing, safety, health)
+6. Raise a positive emotion (love, happiness, laughter, self-confidence)
+7. Satisfy Appetites from basic (food) to risque (sexual)
+8. Make things easier
+9. Enhance their dreams and give hopes
+
+"Do what you love" often don't work. Unless: 
+1. The love solves people's need
+2. You are exceptional at it
+
+"Do what you love" has 2 risks:
+1. They don't make money fast
+2. They endanger love
+
+
+Instead, find passion, aka meaning aka purpose aka why. 
 
 
 ---
-Last Modified: 2026-01-05
+Last Modified: 2026-01-06
 
 

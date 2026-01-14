@@ -1,3 +1,8 @@
+---
+creation date: 2025-12-10 16:12
+modified: 2026-01-08 10:28
+tags:
+---
 # Chapter 4 Does Every Species Sleep?
 
 <p align="center"> <img src="../read-imgs/friends.png" width="80%" style="border-radius: 15px;"> </p>
@@ -6,6 +11,9 @@
 
 ## Really? 
 Yes, even some of the very simplest forms of unicellelar organism , such as bacteria, have active and passive phase that correspond to the light-dark cycle of our planet. It is a pattern that we now believe to be the prescursor of our own circadian rhythm, and with it, wake and sleep. 
+
+**Just today (01-08-2025), I saw an article saying that a new creature was discovered with a sleep-like state.** And the surprising part—this creature is one we’re all familiar with: **the jellyfish**, a brainless animal. source: [https://www.nature.com/articles/d41586-026-00044-7](https://www.nature.com/articles/d41586-026-00044-7)
+
 ## Sleep so important
 In fact, it is so important that we might ask ourselves this question - why do we even bother to wake up? Maybe sleep was the first stage of life on this planet, and it was from sleep that wakefulness emerged. 
 ## The true question: how?
@@ -41,4 +49,9 @@ In other words, sleeping on the ground (thanks for fire) may have triggered a re
 
 ## Extended Watching
 - [Fun Clip from Ross's Speach](https://www.youtube.com/shorts/Xh9RS61KKZw)
+
+
+---
+Last Modified: 2026-01-08
+
 
